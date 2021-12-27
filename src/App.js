@@ -9,7 +9,12 @@ function App() {
         <p>
           Hey Cayla. Where is Penny?
         </p>
-        
+          <p>
+          Where is Sunny?
+        </p>
+         <p>
+          Where is Doodles?
+        </p>
       </header>
     </div>
   );
